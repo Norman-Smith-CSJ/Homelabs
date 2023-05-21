@@ -1,6 +1,6 @@
 # This is a simple lab where I go through and set up active directory on a Windows Server 2019 VM then join clients from a Windows 10 VM. 
 
-
+# test
 
 ![image](https://github.com/Norman-Smith-CSJ/Homelabs/assets/127066513/f40b1b80-9bd2-44fd-93a4-319ffd597ed0)
 
