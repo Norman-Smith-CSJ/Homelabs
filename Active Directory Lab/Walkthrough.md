@@ -34,3 +34,12 @@ Adapter 2 = Internal Network
 
 
 ![image](https://github.com/Norman-Smith-CSJ/Homelabs/assets/127066513/6ef46ebb-d310-48cd-9a98-a2987a357129)
+
+
+## Step 5 ## 
+
+Double click on the VM. Since we haven't attached the ISO yet you should be presented with a screen like this
+
+![image](https://github.com/Norman-Smith-CSJ/Homelabs/assets/127066513/aea313ee-74a9-43a5-b7da-f1dd92ddc078)
+
+Simply find the ISO image that you downloaded ( Windows Server 2019 ) and open it through this window. This should begin the install.
