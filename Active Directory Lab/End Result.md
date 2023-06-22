@@ -1,6 +1,7 @@
 # Virtual Box View - DC Setting
 
-[[![image](https://github.com/Norman-Smith-CSJ/Homelabs/assets/127066513/9b5d8eba-c24f-481d-a252-e571a206b14f)](https://i.imgur.com/xHPAVaI.png)](https://i.imgur.com/xHPAVaI.png)
+![image](https://github.com/Norman-Smith-CSJ/Homelabs/assets/127066513/ab818179-c2d0-41d3-9581-7418ed620ba0)
+
 
 
 # Virtual Box View - CLIENT1 Settings
