@@ -27,11 +27,11 @@ Students will choose one of several Splunk add-on apps to assist with monitoring
 
 ## Our goal was to analyze both logs and determine baselines and create reports to generate alerts. Here I began to briefly analyze the logs and the available fields, specifically examining the following important fields:
 
-signature_id
-signature
-user
-status
-severity
+- signature_id
+- signature
+- user
+- status
+- severity
 
 
 
