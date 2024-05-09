@@ -38,7 +38,112 @@ Students will choose one of several Splunk add-on apps to assist with monitoring
 ![image](https://github.com/Norman-Smith-CSJ/Homelabs/blob/main/Splunk%20Lab/images/image1.png)
 
 
-## With the server logs ingested I then begin to see the amount of high and informational severity 
+## With the server logs ingested I then searched for high and informational severity levels
 
 ![image](https://github.com/Norman-Smith-CSJ/Homelabs/blob/main/Splunk%20Lab/images/image2.png)
+
+
+
+## Here I wanted to see the comparison of failure / success logs
+
+
+![image](https://github.com/Norman-Smith-CSJ/Homelabs/blob/main/Splunk%20Lab/images/image3.png)
+
+
+## From here I crafted an alert to trigger when more than 6 failures occurred 
+
+
+![image](https://github.com/Norman-Smith-CSJ/Homelabs/blob/main/Splunk%20Lab/images/image4.png)
+
+
+![image](https://github.com/Norman-Smith-CSJ/Homelabs/blob/main/Splunk%20Lab/images/image4.1.png)
+
+
+![image](https://github.com/Norman-Smith-CSJ/Homelabs/blob/main/Splunk%20Lab/images/image4.2.png)
+
+
+
+## Creating an alert that triggers when there are more than 15 successful logons in an hour.
+
+![image](https://github.com/Norman-Smith-CSJ/Homelabs/blob/main/Splunk%20Lab/images/image5.png)
+
+
+![image](https://github.com/Norman-Smith-CSJ/Homelabs/blob/main/Splunk%20Lab/images/image5.1.png)
+
+
+![image](https://github.com/Norman-Smith-CSJ/Homelabs/blob/main/Splunk%20Lab/images/image5.2.png)
+
+
+## Creating an alert that triggers when there are 12 accounts deleted in an hour
+
+
+
+![image](https://github.com/Norman-Smith-CSJ/Homelabs/blob/main/Splunk%20Lab/images/image6.png)
+
+![image](https://github.com/Norman-Smith-CSJ/Homelabs/blob/main/Splunk%20Lab/images/image6.1.png)
+
+
+![image](https://github.com/Norman-Smith-CSJ/Homelabs/blob/main/Splunk%20Lab/images/image6.2.png)
+
+## From here I converted search into a dashboard observing signature by hour 
+
+
+
+![image](https://github.com/Norman-Smith-CSJ/Homelabs/blob/main/Splunk%20Lab/images/image7.png)
+
+
+## User by hour
+
+![image](https://github.com/Norman-Smith-CSJ/Homelabs/blob/main/Splunk%20Lab/images/image8.png)
+
+
+## Signature visualization
+
+
+
+![image](https://github.com/Norman-Smith-CSJ/Homelabs/blob/main/Splunk%20Lab/images/image9.png)
+
+
+## User visualization
+
+![image](https://github.com/Norman-Smith-CSJ/Homelabs/blob/main/Splunk%20Lab/images/image10.png)
+
+
+## All put together for a dashboard
+
+![image](https://github.com/Norman-Smith-CSJ/Homelabs/blob/main/Splunk%20Lab/images/image11.png)
+
+
+## We were then allowed to pick an addon to supplement our dashboard - my group decided on a website monitoring app. Here you can see we are monitoring the uptime
+of Target.com
+
+![image](https://github.com/Norman-Smith-CSJ/Homelabs/blob/main/Splunk%20Lab/images/image12.png)
+
+
+## We then pivoted to analyzing the apache logs.
+
+![image](https://github.com/Norman-Smith-CSJ/Homelabs/blob/main/Splunk%20Lab/images/image13.png)
+
+## Here we can see the top 10 domains being visited.
+
+![image](https://github.com/Norman-Smith-CSJ/Homelabs/blob/main/Splunk%20Lab/images/image14.png)
+
+## Digging into HTTP status codes and seeing what the counts are on the far right column
+
+
+![image](https://github.com/Norman-Smith-CSJ/Homelabs/blob/main/Splunk%20Lab/images/image15.png)
+
+## Creating an alert that tracks activity outside of the United States
+
+![image](https://github.com/Norman-Smith-CSJ/Homelabs/blob/main/Splunk%20Lab/images/image16.png)
+
+
+## Creating an HTTP post response alert tracking anything greater than 3 
+
+![image](https://github.com/Norman-Smith-CSJ/Homelabs/blob/main/Splunk%20Lab/images/image17.png)
+
+
+![image](https://github.com/Norman-Smith-CSJ/Homelabs/blob/main/Splunk%20Lab/images/image18.png)
+
+![image](https://github.com/Norman-Smith-CSJ/Homelabs/blob/main/Splunk%20Lab/images/image19.png)
 
