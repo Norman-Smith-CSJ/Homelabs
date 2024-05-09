@@ -1,0 +1,3 @@
+In this project we were presented with a scenario in which a company experienced an attack on their network and logs were captured for both their window servers and apache servers.
+
+Our goal was to analyze both logs and determine baselines and create reports to generate alerts.
