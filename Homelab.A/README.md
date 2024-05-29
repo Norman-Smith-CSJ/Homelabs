@@ -7,4 +7,4 @@ This lab drew inspiration from the following video by Black Hills Info Sec
 
 https://www.blackhillsinfosec.com/webcast-how-to-build-a-home-lab/
 
-https://github.com/Norman-Smith-CSJ/Homelabs/blob/main/Homelab.A/Images/Topology.png
+![image](https://github.com/Norman-Smith-CSJ/Homelabs/blob/main/Homelab.A/Images/Topology.png)
