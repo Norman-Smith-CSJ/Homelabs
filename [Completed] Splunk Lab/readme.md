@@ -114,8 +114,7 @@ Students will choose one of several Splunk add-on apps to assist with monitoring
 ![image](https://github.com/Norman-Smith-CSJ/Homelabs/blob/main/%5BCompleted%5D%20Splunk%20Lab/images/image11.png)
 
 
-## We were then allowed to pick an addon to supplement our dashboard - my group decided on a website monitoring app. Here you can see we are monitoring the uptime
-of Target.com
+## We were then allowed to pick an addon to supplement our dashboard - my group decided on a website monitoring app. Here you can see we are monitoring the uptime of Target.com
 
 ![image](https://github.com/Norman-Smith-CSJ/Homelabs/blob/main/%5BCompleted%5D%20Splunk%20Lab/images/image12.png)
 
