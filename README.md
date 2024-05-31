@@ -7,3 +7,10 @@ A place to show what I'm cooking up in my homelabs!
 https://www.youtube.com/watch?v=tD5fRwHRygY&ab_channel=I.TSecurityLabs This is the initial setup
 
 Following this series here https://www.youtube.com/watch?v=-tMY9GVvvsM&list=PLyJqGMYm0vnOxMapUGkt9DfU4aTTU2vqU&ab_channel=I.TSecurityLabs
+
+
+Following this gitlab guide
+
+https://gitlab.com/kalilinux/kali-purple/documentation/-/blob/main/301_kali-purple/installation.txt#L37
+
+When you get to the step about setting up HTTPS make sure you hit enter through all the prompts and key the default names for the ca and keys. After adding those to your kibana.yml you need to restart the kibana service for HTTPS to take effect - fun fact this took me hours of troubleshooting to figure out.
