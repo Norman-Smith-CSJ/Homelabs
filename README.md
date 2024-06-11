@@ -39,3 +39,7 @@ Alerts Firing
 
 
 # 6/8/2024 Update - I was able to successfully get my opnSENSE firewall to communicate with my kali purple machine that hosts the elastic SIEM. This proved especially difficult due to the fact that creating a bridge network in esxi client host isn't as simple as toggling bridged network within the network settings when spinning up a new VM. Nonetheless we were able to get them to communicate and move on to the next step.
+
+OPNsense and Kali Purple hosting elastic communicating
+
+![image](https://github.com/Norman-Smith-CSJ/Homelabs/blob/main/%5BIn%20Progress%5D%20Elastic%20SIEM/images/OPNsense_and_kali.png)
