@@ -22,5 +22,20 @@ When you get to the step about setting up HTTPS make sure you hit enter through 
 
 # 6/1/2024 12:24AM Update - Fun times - finally was able to get monitoring setup for the elastic SIEM. I'll upload my progress tomorrow and begin the next step of the guide.
 
+Successfully setting up Https on elastic
+
+![image](https://github.com/Norman-Smith-CSJ/Homelabs/blob/main/%5BIn%20Progress%5D%20Elastic%20SIEM/images/Success.png)
+
+Attempting Reverse Shell
+
+![image](https://github.com/Norman-Smith-CSJ/Homelabs/blob/main/%5BIn%20Progress%5D%20Elastic%20SIEM/images/Attempting_Reverse_Shell.png)
+
+![image](https://github.com/Norman-Smith-CSJ/Homelabs/blob/main/%5BIn%20Progress%5D%20Elastic%20SIEM/images/Hosting_Reverse_Shell.png)
+
+Alerts Firing
+
+![image](https://github.com/Norman-Smith-CSJ/Homelabs/blob/main/%5BIn%20Progress%5D%20Elastic%20SIEM/images/Alerts_Firing.png)
+
+
 
 # 6/8/2024 Update - I was able to successfully get my opnSENSE firewall to communicate with my kali purple machine that hosts the elastic SIEM. This proved especially difficult due to the fact that creating a bridge network in esxi client host isn't as simple as toggling bridged network within the network settings when spinning up a new VM. Nonetheless we were able to get them to communicate and move on to the next step.
