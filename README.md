@@ -43,3 +43,20 @@ Alerts Firing
 OPNsense and Kali Purple hosting elastic communicating
 
 ![image](https://github.com/Norman-Smith-CSJ/Homelabs/blob/main/%5BIn%20Progress%5D%20Elastic%20SIEM/images/OPNsense_and_kali.png)
+
+
+
+# 6/19/2024 Update - Wow what a doozy this was. I'll admit this is mostly due to my own fault but I ran into a few issues when moving onto the suricata IDS portion of the lab. Due to recent updates with filebeat you have to ensure if your using this walkthrough you utilzie filebeat7 and NOT filebeat8. I had to uninstall and remove everything that filebeat8 put on my OPNsense firewall and do a make install with filebeat7. Once this was completed everything worked the way it needed to. I had to restart the OPNsense firewall multiple times for changes to take effect but in the end I was able to do the following: 
+
+# OPNsense firewall installed filebeat / suricata
+
+# Set up downloads / rules on OPNsense and was able to see alerts.
+
+# Conducted an nmap scan against the firewall to determine if my activity was being caught by the firewall.
+
+# Reviewed in the OPNsense web application the alerts coming in from the nmap scan.
+
+# verified the alerts were being forwarded from OPNsense to elastic siem by reviewing the discover tab.
+
+# Viewed the data with a filebeat / suricata dashboard
+
