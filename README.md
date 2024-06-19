@@ -60,3 +60,10 @@ OPNsense and Kali Purple hosting elastic communicating
 
 # Viewed the data with a filebeat / suricata dashboard
 
+![image](https://github.com/Norman-Smith-CSJ/Homelabs/blob/main/%5BIn%20Progress%5D%20Elastic%20SIEM/images/Nmap_Scan_Against_Firewall.png)
+
+
+![image](https://github.com/Norman-Smith-CSJ/Homelabs/blob/main/%5BIn%20Progress%5D%20Elastic%20SIEM/images/Successful%20dashboard.png)
+
+
+![image](https://github.com/Norman-Smith-CSJ/Homelabs/blob/main/%5BIn%20Progress%5D%20Elastic%20SIEM/images/opnSense_filebeat_working.png)
