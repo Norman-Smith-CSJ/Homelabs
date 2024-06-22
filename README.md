@@ -67,3 +67,7 @@ OPNsense and Kali Purple hosting elastic communicating
 
 
 ![image](https://github.com/Norman-Smith-CSJ/Homelabs/blob/main/%5BIn%20Progress%5D%20Elastic%20SIEM/images/opnSense_filebeat_working.png)
+
+
+
+make a change here
