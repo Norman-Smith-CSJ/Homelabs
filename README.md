@@ -71,3 +71,5 @@ OPNsense and Kali Purple hosting elastic communicating
 
 
 ## At this point I began to test my SIEM against a bad word document. In order to create this word document I needed an attacker windows vm. https://github.com/fireeye/commando-vm
+
+
