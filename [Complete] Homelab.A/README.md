@@ -10,10 +10,10 @@ https://www.blackhillsinfosec.com/webcast-how-to-build-a-home-lab/
 
 ## Topology
 
-![image](https://github.com/Norman-Smith-CSJ/Homelabs/blob/main/%5BIn%20Progress%5D%20Homelab.A/Images/Topology.png)
+![image](https://github.com/Norman-Smith-CSJ/Homelabs/blob/main/%5BComplete%5D%20Homelab.A/Images/Topology.png)
 
 
 ## Visual of Hardware
 
-![image](https://github.com/Norman-Smith-CSJ/Homelabs/blob/main/%5BIn%20Progress%5D%20Homelab.A/Images/homelab1.jpg)
+![image](https://github.com/Norman-Smith-CSJ/Homelabs/blob/main/%5BComplete%5D%20Homelab.A/Images/homelab1.jpg)
 
