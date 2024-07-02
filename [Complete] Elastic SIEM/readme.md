@@ -72,4 +72,4 @@ OPNsense and Kali Purple hosting elastic communicating
 
 ![image](https://github.com/Norman-Smith-CSJ/Homelabs/blob/main/%5BComplete%5D%20Elastic%20SIEM/images/Successful_Install.png)
 
-Following the installation of the commando VM I discovered my Kibana free license expired - with that I decided to conclude my work on this lab and 
+Following the installation of the commando VM I discovered my Kibana free license expired - with that I decided to conclude my work on this lab and begin a new adventure!
